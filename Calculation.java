@@ -11,10 +11,10 @@ public class Calculation
     Scanner scancinco = new Scanner(System.in);
     int reset;
     do{
-    System.out.println("Escolha UMA as operações a seguir:\n\n'1' - Circunferência\n'2' - Circunferência-Arredondada\n'3' - Área\n'4' - Área-Arredondada\n'5' - Relação Seno\n'6' - Distância entre dois pontos\n\nOperação selecionada:");
+    System.out.println("Escolha UMA das operações à seguir:\n\n'1' - Circunferência\n'2' - Circunferência-Arredondada\n'3' - Área\n'4' - Área-Arredondada\n'5' - Relação Seno\n'6' - Distância entre dois pontos\n\nOperação selecionada:");
     int operation = scanum.nextInt();
     if (operation==6){
-        System.out.println("Digite o X, depois o Y:");
+        System.out.println("Digite o valor de X & depois o valor de Y:");
         double X = scantres.nextDouble();
 	System.out.println("Valor de X: "+X);
         double Y = scanquatro.nextDouble();
