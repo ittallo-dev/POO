@@ -34,11 +34,11 @@ Esse repositório passa a funcionar como o ponto central do projeto. Nele ficam 
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image1.png" alt="Tela de criação de um novo repositório no GitHub"><br>
+<img src="Imagens/image1.png" alt="Tela de criação de um novo repositório no GitHub"><br>
 <strong>Imagem 1:</strong> tela de criação de um novo repositório.
 </td>
 <td width="50%">
-<img src="imagens/image2.png" alt="Repositório criado no GitHub"><br>
+<img src="Imagens/image2.png" alt="Repositório criado no GitHub"><br>
 <strong>Imagem 2:</strong> repositório criado com estrutura inicial.
 </td>
 </tr>
@@ -49,11 +49,11 @@ Após a criação, o GitHub exibe a página principal do repositório. A partir 
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image3.png" alt="Área de envio de arquivo no GitHub"><br>
+<img src="Imagens/image3.png" alt="Área de envio de arquivo no GitHub"><br>
 <strong>Imagem 3:</strong> área para adicionar arquivos ao repositório.
 </td>
 <td width="50%">
-<img src="imagens/image4.png" alt="Commit de novo arquivo no GitHub"><br>
+<img src="Imagens/image4.png" alt="Commit de novo arquivo no GitHub"><br>
 <strong>Imagem 4:</strong> envio de arquivo com mensagem de commit.
 </td>
 </tr>
@@ -78,11 +78,11 @@ O commit é o registro oficial da alteração. Ele funciona como uma marca no hi
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image5.png" alt="Arquivo aberto no editor web do GitHub"><br>
+<img src="Imagens/image5.png" alt="Arquivo aberto no editor web do GitHub"><br>
 <strong>Imagem 5:</strong> arquivo aberto no editor do GitHub.
 </td>
 <td width="50%">
-<img src="imagens/image6.png" alt="Conteúdo alterado no GitHub"><br>
+<img src="Imagens/image6.png" alt="Conteúdo alterado no GitHub"><br>
 <strong>Imagem 6:</strong> conteúdo alterado antes da confirmação.
 </td>
 </tr>
@@ -95,7 +95,7 @@ O commit é o registro oficial da alteração. Ele funciona como uma marca no hi
 <strong>Imagem 7:</strong> janela de commit com mensagem e descrição.
 </td>
 <td width="50%">
-<img src="imagens/image8.png" alt="Confirmação de alteração no GitHub"><br>
+<img src="Imagens/image8.png" alt="Confirmação de alteração no GitHub"><br>
 <strong>Imagem 8:</strong> confirmação da alteração no repositório.
 </td>
 </tr>
@@ -106,11 +106,11 @@ Uma boa mensagem de commit facilita a leitura do histórico. Em vez de registrar
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image9.png" alt="Alteração registrada no repositório"><br>
+<img src="Imagens/image9.png" alt="Alteração registrada no repositório"><br>
 <strong>Imagem 9:</strong> alteração registrada no histórico do repositório.
 </td>
 <td width="50%">
-<img src="imagens/image10.png" alt="Nova edição com commit"><br>
+<img src="Imagens/image10.png" alt="Nova edição com commit"><br>
 <strong>Imagem 10:</strong> nova edição antes de registrar outro commit.
 </td>
 </tr>
@@ -135,11 +135,11 @@ Ao criar uma branch, o conteúdo da branch principal é copiado para um novo ram
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image11.png" alt="Tela de branches no GitHub"><br>
+<img src="Imagens/image11.png" alt="Tela de branches no GitHub"><br>
 <strong>Imagem 11:</strong> tela de branches do repositório.
 </td>
 <td width="50%">
-<img src="imagens/image12.png" alt="Criação de nova branch"><br>
+<img src="Imagens/image12.png" alt="Criação de nova branch"><br>
 <strong>Imagem 12:</strong> criação de nova branch a partir da principal.
 </td>
 </tr>
@@ -148,11 +148,11 @@ Ao criar uma branch, o conteúdo da branch principal é copiado para um novo ram
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image13.png" alt="Lista de branches"><br>
+<img src="Imagens/image13.png" alt="Lista de branches"><br>
 <strong>Imagem 13:</strong> lista de branches após a criação do novo ramo.
 </td>
 <td width="50%">
-<img src="imagens/image14.png" alt="Branch selecionada no repositório"><br>
+<img src="Imagens/image14.png" alt="Branch selecionada no repositório"><br>
 <strong>Imagem 14:</strong> repositório com uma branch selecionada.
 </td>
 </tr>
@@ -163,11 +163,11 @@ A troca de branch permite escolher em qual versão do projeto o usuário deseja 
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image15.png" alt="Menu de troca de branch"><br>
+<img src="Imagens/image15.png" alt="Menu de troca de branch"><br>
 <strong>Imagem 15:</strong> menu usado para alternar entre branches.
 </td>
 <td width="50%">
-<img src="imagens/image16.png" alt="Histórico da branch"><br>
+<img src="Imagens/image16.png" alt="Histórico da branch"><br>
 <strong>Imagem 16:</strong> branch com alterações disponíveis no histórico.
 </td>
 </tr>
@@ -178,11 +178,11 @@ Quando as alterações feitas na branch estiverem prontas, elas podem ser compar
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image17.png" alt="Comparação entre branches"><br>
+<img src="Imagens/image17.png" alt="Comparação entre branches"><br>
 <strong>Imagem 17:</strong> comparação ou integração de alterações entre branches.
 </td>
 <td width="50%">
-<img src="imagens/image18.png" alt="Comandos de branch no terminal"><br>
+<img src="Imagens/image18.png" alt="Comandos de branch no terminal"><br>
 <strong>Imagem 18:</strong> comandos locais relacionados ao uso de branch.
 </td>
 </tr>
@@ -208,11 +208,11 @@ Depois da clonagem, o trabalho local segue o fluxo comum do Git: editar arquivos
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image19.png" alt="VS Code antes da clonagem"><br>
+<img src="Imagens/image19.png" alt="VS Code antes da clonagem"><br>
 <strong>Imagem 19:</strong> VS Code aberto para iniciar a clonagem.
 </td>
 <td width="50%">
-<img src="imagens/image20.png" alt="Comando de clonagem no VS Code"><br>
+<img src="Imagens/image20.png" alt="Comando de clonagem no VS Code"><br>
 <strong>Imagem 20:</strong> comando de clonagem com seleção do repositório.
 </td>
 </tr>
@@ -221,11 +221,11 @@ Depois da clonagem, o trabalho local segue o fluxo comum do Git: editar arquivos
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image21.png" alt="Projeto aberto no VS Code"><br>
+<img src="Imagens/image21.png" alt="Projeto aberto no VS Code"><br>
 <strong>Imagem 21:</strong> projeto aberto localmente após a clonagem.
 </td>
 <td width="50%">
-<img src="imagens/image22.png" alt="Terminal mostrando processo Git"><br>
+<img src="Imagens/image22.png" alt="Terminal mostrando processo Git"><br>
 <strong>Imagem 22:</strong> terminal exibindo informações do Git.
 </td>
 </tr>
@@ -236,11 +236,11 @@ Com o projeto aberto no VS Code, o usuário pode alterar arquivos, acompanhar mu
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image23.png" alt="Código sendo editado no VS Code"><br>
+<img src="Imagens/image23.png" alt="Código sendo editado no VS Code"><br>
 <strong>Imagem 23:</strong> código sendo editado no VS Code.
 </td>
 <td width="50%">
-<img src="imagens/image24.png" alt="Terminal do VS Code com comandos Git"><br>
+<img src="Imagens/image24.png" alt="Terminal do VS Code com comandos Git"><br>
 <strong>Imagem 24:</strong> terminal do VS Code com comandos Git executados.
 </td>
 </tr>
