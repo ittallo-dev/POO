@@ -91,7 +91,7 @@ O commit é o registro oficial da alteração. Ele funciona como uma marca no hi
 <table>
 <tr>
 <td width="50%">
-<img src="imagens/image7.png" alt="Janela de commit no GitHub"><br>
+<img src="Imagens/image7.png" alt="Janela de commit no GitHub"><br>
 <strong>Imagem 7:</strong> janela de commit com mensagem e descrição.
 </td>
 <td width="50%">
